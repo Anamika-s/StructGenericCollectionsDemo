@@ -1,0 +1,13 @@
+C:\Users\adminvm.adminvm\source\repos\StrutureenumDemos\StrutureenumDemos\bin\Debug\netcoreapp3.1\StrutureenumDemos.exe
+C:\Users\adminvm.adminvm\source\repos\StrutureenumDemos\StrutureenumDemos\bin\Debug\netcoreapp3.1\StrutureenumDemos.deps.json
+C:\Users\adminvm.adminvm\source\repos\StrutureenumDemos\StrutureenumDemos\bin\Debug\netcoreapp3.1\StrutureenumDemos.runtimeconfig.json
+C:\Users\adminvm.adminvm\source\repos\StrutureenumDemos\StrutureenumDemos\bin\Debug\netcoreapp3.1\StrutureenumDemos.runtimeconfig.dev.json
+C:\Users\adminvm.adminvm\source\repos\StrutureenumDemos\StrutureenumDemos\bin\Debug\netcoreapp3.1\StrutureenumDemos.dll
+C:\Users\adminvm.adminvm\source\repos\StrutureenumDemos\StrutureenumDemos\bin\Debug\netcoreapp3.1\StrutureenumDemos.pdb
+C:\Users\adminvm.adminvm\source\repos\StrutureenumDemos\StrutureenumDemos\obj\Debug\netcoreapp3.1\StrutureenumDemos.csprojAssemblyReference.cache
+C:\Users\adminvm.adminvm\source\repos\StrutureenumDemos\StrutureenumDemos\obj\Debug\netcoreapp3.1\StrutureenumDemos.AssemblyInfoInputs.cache
+C:\Users\adminvm.adminvm\source\repos\StrutureenumDemos\StrutureenumDemos\obj\Debug\netcoreapp3.1\StrutureenumDemos.AssemblyInfo.cs
+C:\Users\adminvm.adminvm\source\repos\StrutureenumDemos\StrutureenumDemos\obj\Debug\netcoreapp3.1\StrutureenumDemos.csproj.CoreCompileInputs.cache
+C:\Users\adminvm.adminvm\source\repos\StrutureenumDemos\StrutureenumDemos\obj\Debug\netcoreapp3.1\StrutureenumDemos.dll
+C:\Users\adminvm.adminvm\source\repos\StrutureenumDemos\StrutureenumDemos\obj\Debug\netcoreapp3.1\StrutureenumDemos.pdb
+C:\Users\adminvm.adminvm\source\repos\StrutureenumDemos\StrutureenumDemos\obj\Debug\netcoreapp3.1\StrutureenumDemos.genruntimeconfig.cache
